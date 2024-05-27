@@ -20,7 +20,8 @@
 //     * 4 RETIRAR TODO EL DINERO
 //     * 0 SALIR
 //     `);
-//     switch (option) {
+//     switch (option) {git add git add .
+git
 //         case "1":
 //             alert(saldo)
 //             break;
